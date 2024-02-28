@@ -4,9 +4,10 @@ weather(sunny) ;
 
 function weather(sunny) {
 
-  // sunny ? console.log('Its sunny outside') : console.log('Its cloudy outside') ;
+  // sunny ? console.log('Its sunny outside') : consol.log('Its cloudy outside') ;
   
-  for(sunny){
+  for (sunny) {
     console.log('Its sunny outside') ;
-  }
+  } 
+  
 }
