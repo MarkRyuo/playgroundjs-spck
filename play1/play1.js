@@ -6,8 +6,8 @@ function weather(sunny) {
 
   // sunny ? console.log('Its sunny outside') : consol.log('Its cloudy outside') ;
   
-  for (sunny) {
-    console.log('Its sunny outside') ;
+   for (let i = 0 ; i <= 10 ; i++  ) {
+    
   } 
   
 }
