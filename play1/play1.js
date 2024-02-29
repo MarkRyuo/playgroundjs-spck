@@ -1,4 +1,4 @@
-let sunny = true ;
+let sunny = false ;
 
 weather(sunny) ;
 
