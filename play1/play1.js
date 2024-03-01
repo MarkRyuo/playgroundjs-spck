@@ -13,5 +13,6 @@
   
 //}
     
+let user1 = document.getElementById('textLabel').value
 
-let userName = [""]    
+let userName = []    
