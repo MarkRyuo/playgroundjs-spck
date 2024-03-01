@@ -13,6 +13,8 @@
   
 //}
     
-let user1 = document.getElementById('textLabel').value
+let user1 = document.getElementById('textLabel').value ;
+let user2 = document.getElementById('textLabel').value
+let userName = [user1, user2 , ] ;
 
-let userName = []    
+
